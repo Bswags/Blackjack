@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F60968C3-FBCB-49B5-89CD-175CADBFFEC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Blackjack</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C206DB10-14CF-4AE9-91CC-DDB2B0BB1362</key>
+		<string>https://github.com/Bswags/Blackjack.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Blackjack.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C206DB10-14CF-4AE9-91CC-DDB2B0BB1362</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Bswags/Blackjack.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C206DB10-14CF-4AE9-91CC-DDB2B0BB1362</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C206DB10-14CF-4AE9-91CC-DDB2B0BB1362</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Blackjack</string>
+		</dict>
+	</array>
+</dict>
+</plist>
